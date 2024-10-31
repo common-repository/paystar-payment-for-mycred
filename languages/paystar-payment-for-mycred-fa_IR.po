@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PayStar Payment Gateway for MyCred\n"
+"POT-Creation-Date: 2021-10-26 09:23+0330\n"
+"PO-Revision-Date: 2022-04-15 20:28+0430\n"
+"Last-Translator: Seyed Hamzeh Fazeli <seyed.hamzeh.fazeli@gmail.com>\n"
+"Language-Team: ModuleBank.ir <support@modulebank.ir>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: paystar.php:18
+msgid "paystar-payment-for-mycred"
+msgstr "درگاه پرداخت پی استار برای افزونه امتیار من"
+
+#: paystar.php:23 paystar.php:40
+msgid "PayStar"
+msgstr "پی استار"
+
+#: paystar.php:52
+msgid "Please setup this gateway before attempting to make a purchase!"
+msgstr "لطفا قبل از استفاده از درگاه ، تنظیمات آن را پیکربندی کنید!"
+
+#: paystar.php:85
+#, php-format
+msgid "pay completed. order id : %s . payment refrence id : %s"
+msgstr "پرداخت با موفقیت انجام شد. شماره سفارش : %s . شماره پیگیری : %s"
+
+#: paystar.php:94
+msgid "Failed to credit users account"
+msgstr "خطا در ثبت و افزودن امتیاز خریداری شده"
+
+#: paystar.php:128
+msgid "PayStar Terminal"
+msgstr "شناسه درگاه پی استار"
+
+#: paystar.php:129
+msgid "Exchange Rates"
+msgstr "نرخ مبادله"
